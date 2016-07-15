@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_781274e44586a3593c29dfdc30bd451d55623472/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="03936bcd7eca6db4dcba8528987b7c59da0b9381">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b820b2608d192792cee87fa4762fc173d545a9c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_b68a5df4f6e60445edac4bc277a5547e74bbdb48/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_cc6fd4b7f6b09e45c2a5392e8aa447bf5903a100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.0_9181013755ea0354ee60c8e5c8935dcc0a817743/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.2.0_33691e1afbd8eaba0c8dbc7fee170ee12149db4f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_147f2b23b6756918661c215fb68d11a98ad6a68d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.0_0ea085afca48177b86cab2fae20d8bceeab5b4cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_474aa7f567b59944f46da98dd5b6ad86c3fd724f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.0_3b9d0602e70cb6637d7fad7d2be3094fd421fc7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.0_41b9c502d687f24bc64b9aa5a15716ec5c3b8f56/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_7afa6bb122b569194647ccabb266f4d0a6aff97c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="41fa26090cf21a77f1901d9100488b09f4e428c0">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e9497cbb63d942713e8735565918b078cc03f500/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.2.0_753a705150047b93534de3b1a18274992534d2d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_ba1e5d19360c06f569ecd840e6dcf6ee0c6af988/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.0_4a292dd0b64ade225822d539929e132fe533e9ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.0_45e265bfc81b36ab41c544a78bdd562067485fc9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/Users/Junyoung/Dropbox/Projects/AndroidStudio/Firechatting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.0_c56a2efe70d7a3d01dd5ac4102799d7f0dad862b/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020276735503",
+    "firebase_url": "https://firechatting-f963a.firebaseio.com",
+    "project_id": "firechatting-f963a",
+    "storage_bucket": "firechatting-f963a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020276735503:android:8dfa904731727a80",
+        "android_client_info": {
+          "package_name": "com.junyoung.firechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020276735503-ad5scln9c84cjb6cs0u87301of78itgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junyoung.firechatting",
+            "certificate_hash": "114C0D534138BF53AEC6757BC6A87E3ADB33471C"
+          }
+        },
+        {
+          "client_id": "1020276735503-811bqgn8pb76j20q1prpgve18a23nk9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wazVrYUgMsHvEr1PSY-1GABfmS29RYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020276735503-811bqgn8pb76j20q1prpgve18a23nk9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

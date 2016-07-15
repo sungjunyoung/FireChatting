@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firechatting</string>
+    <string name="simplefirebasechatting">SimpleFirebaseChatting!</string>
+    <string name="name">name</string>
+    <string name="content">content</string>
+    <string name="comfirm">Comfirm</string>
+    <string name="my_channel">My Channel :</string>
+    <string name="women">Women</string>
+    <string name="men">Men</string>
+    <string name="tgwing">TGWinG</string>
+    <string name="select_your_channel">Select your channel</string>
+    <string name="group_anonymous_chatting_junyoung">Group Anonymous Chatting - Junyoung</string>
+    <string name="chanel">chanel</string>
+    <string name="submit">Submit</string>
+    <string name="group_anonymous_chatting">group_anonymous_chatting</string>
+</resources>
